@@ -4,18 +4,18 @@ An archey script for OS X.
 ```
 
                  ###
-               ####	                  User: jhann
-               ###                    Hostname: Hann
-       #######    #######             Distro: OS X 10.8.4
+               ####	              User: alopez
+               ###                    Hostname: Styx
+       #######    #######             Distro: OS X 12.4
      ######################           Kernel: Darwin
-    #####################             Uptime:  2:03
+    #####################             Uptime:  1:27
     ####################              Shell: /bin/bash
-    ####################              Terminal: xterm
-    #####################             Packages: 70
-     ######################           CPU: Intel Core i5-3210M CPU @ 2.50GHz
-      ####################	          Memory: 8 GB
-        ################              Disk: 56%
-         ####     #####               IP Address: 192.168.0.2
+    ####################              Terminal: xterm-color Apple Terminal
+    #####################             Packages: 189
+     ######################           Intel Core i9-9880H CPU @ 2.30GHz
+      ####################	      Memory: 16 GB
+        ################              Disk: 1%
+         ####     #####               IP Address: 192.168.13.27
 ```
 
 ##Table Of Contents
